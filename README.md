@@ -45,7 +45,7 @@ I’m currently open to freelance and remote project opportunities — let’s b
 
 ---
 
-### 💡 Highlight Projects (Optional – you can update this section later)
+### 💡 Highlight Projects
 
 | Project            | Description                                                  | Tech Stack                             |
 |--------------------|--------------------------------------------------------------|----------------------------------------|
